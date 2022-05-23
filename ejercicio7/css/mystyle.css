@@ -1,0 +1,31 @@
+h1 {
+  color: burlywood;
+}
+
+span {
+  color: forestgreen;
+}
+
+h2 {
+  color: yellowgreen;
+  border-bottom-style: solid;
+  border-color: yellowgreen;
+  border-width: 1px;
+}
+
+body {
+  background-color: gray;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+div {
+  background-color: whitesmoke;
+  padding: 20px;
+}
+
+.articulo {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(190, 190, 190);
+}
